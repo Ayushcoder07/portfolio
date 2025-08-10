@@ -9,7 +9,7 @@ function Footer() {
     { path: "tel:+91 8755299906", icon: phone },
     { path: "mailto:ayushgehu0786@gmail.com", icon: gmail },
     {
-      path: "https://www.linkedin.com/in/ayush-goyal-05667a244",
+      path: "https://www.linkedin.com/in/ayush-goyal-0b7066318?",
       icon: linkedin
     },
     { path: "https://github.com/Ayushcoder07", icon: github },

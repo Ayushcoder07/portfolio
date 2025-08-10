@@ -42,7 +42,7 @@ function HeroSection() {
           <img src={github} className="w-10 " />
         </a>
         <a
-          href="https://www.linkedin.com/in/ayush-goyal-05667a244"
+          href="https://www.linkedin.com/in/ayush-goyal-0b7066318?"
           target="_blank"
         >
           <img src={linkedin} className="w-10" />

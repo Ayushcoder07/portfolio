@@ -81,7 +81,7 @@ function Header() {
                     <div>
                       <div>Ayush Goyal</div>
                       <div className="text-xs opacity-80">
-                        Full Stack Developer
+
                       </div>
                     </div>
                   </div>

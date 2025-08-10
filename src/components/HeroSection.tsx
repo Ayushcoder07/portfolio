@@ -25,7 +25,7 @@ function HeroSection() {
         I'm Ayush Goyal<span className="text-4xl">👋</span>
       </div>
       <div className="text-3xl sm:text-4xl font-bold text-center tracking-wider bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-500 dark:bg-gradient-to-l dark:from-blue-300 dark:to-teal-200 text-transparent">
-        Full Stack Developer
+
       </div>
       <div className="w-full sm:w-10/12 md:w-3/4 lg:w-1/2 max-w-3xl text-center text-muted-foreground text-lg ">
         I am a B.Tech CSE graduate{" "}

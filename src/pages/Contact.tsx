@@ -50,7 +50,7 @@ function Contact() {
     try {
       setLoading(true);
       const data = JSON.stringify({
-        access_key: "3fce5aaa-52b9-48b5-8cc1-117fefceaee4",
+        access_key: "",
         name: values.name,
         email: values.email,
         mobile_number: values.mobileNumber,

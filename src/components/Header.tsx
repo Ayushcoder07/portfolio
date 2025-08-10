@@ -43,7 +43,7 @@ function Header() {
           </div>
           <div>
             <div>Ayush Goyal</div>
-            <div className="text-xs opacity-80">Full Stack Developer</div>
+            <div className="text-xs opacity-80"></div>
           </div>
         </Link>
         <div className="sm:flex items-center gap-x-8 hidden">

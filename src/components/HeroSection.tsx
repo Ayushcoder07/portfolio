@@ -55,7 +55,7 @@ function HeroSection() {
             <MoveUpRight size={18} />
           </div>
         </a>
-        <a href="https://github.com/kumarAmit0109/Resume">
+        <a href="https://github.com/Ayushcoder07">
           <div className="flex items-center justify-center gap-x-2 border-2 border-gray-700 bg-gradient-to-tl from-pink-500 to-yellow-500 dark:from-teal-500 dark:to-teal-200  rounded-3xl px-6 py-3 text-white dark:text-black">
             <span className=" tracking-wider ">Resume</span>
             <Download size={18} />
